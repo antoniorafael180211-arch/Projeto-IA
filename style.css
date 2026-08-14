@@ -69,5 +69,30 @@ body{
 
 /* Hero / Destaque */
 .hero-banner {
-    
+    background: linear-gradient(135deg, #080808 0%, #141414 100%);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 8px;
+    padding: 2.5rem;
+    margin-bottom: 3rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.hero-text h2 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+    color: var(--text-color);
+}
+
+.hero-text p {
+    color: var(--text-muted);
+    max-width: 800px;
+    font-size: 1.05rem;
+}
+
+/* Catalogo e Grid */
+.selection-title {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    padding-left: 0.75rem;
 }
