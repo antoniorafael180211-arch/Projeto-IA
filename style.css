@@ -1,8 +1,8 @@
 /* --- Reset e Variáveis --- */
 :root {
     --bg-color: #141414;
-    --card-bg: #1f1f1f;
-    --primary-color: #09ec01;
+    --card-bg: #ff0000;
+    --primary-color: #080808;
     --text-color: #ffffff;
     --text-muted: #a3a3a3;
     --font-family: 'Inter', sans-serif;
