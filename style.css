@@ -43,4 +43,31 @@ body{
     align-items: center;
     justify-content: space-between;
 }
+.logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--text-color);
+    letter-spacing: -0.5px;
+}
 
+.logo span {
+   color: var(--primary-color); 
+}
+
+.subtitle {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+/* --- Conteúdo Principal --- */
+.main-content {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    flex: 1;
+}
+
+/* Hero / Destaque */
+.hero-banner {
+    
+}
