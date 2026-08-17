@@ -1,6 +1,6 @@
 /* --- Reset e Variáveis --- */
 :root {
-    --bg-color: #020202;
+    --bg-color: #4e4e4e;
     --card-bg: #0a0a0a;
     --primary-color: #fc0000;
     --text-color: #ffffff;
@@ -69,7 +69,7 @@ body{
 
 /* Hero / Destaque */
 .hero-banner {
-    background: linear-gradient(135deg, #080808 0%, #141414 100%);
+    background: linear-gradient(135deg, #ff0000 0%, #141414 100%);
     border-left: 4px solid var(--primary-color);
     border-radius: 8px;
     padding: 2.5rem;
