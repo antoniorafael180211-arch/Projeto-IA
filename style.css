@@ -1,10 +1,10 @@
 /* --- Reset e Variáveis --- */
 :root {
-    --bg-color: #141414;
-    --card-bg: #ff0000;
+    --bg-color: #f80505;
+    --card-bg: #0a0a0a;
     --primary-color: #080808;
     --text-color: #ffffff;
-    --text-muted: #a3a3a3;
+    --text-muted: #c5c1c1;
     --font-family: 'Inter', sans-serif;
     --transition: all 0.3s ease;
 }
