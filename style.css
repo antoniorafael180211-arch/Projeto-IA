@@ -128,7 +128,7 @@ body{
 .card:hover {
     transform: translateY(-6px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
-    border-color: #404040;
+    border-color: #777676;
 }
 
 .card-image-wrapper {
@@ -177,8 +177,8 @@ body{
 }
 
 .btn-watch:hover {
-    background-color: #0425f7;
-    box-shadow: 0 4px 12px rgba(1, 10, 251, 0.4);
+    background-color: #000000;
+    box-shadow: 0 4px 12px rgba(251, 9, 1, 0.952);
 }
 
 /* Rodapé */
